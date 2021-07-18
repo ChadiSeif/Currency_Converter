@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  text-decoration: none !important;
+  list-style: none;
+  font-size: 16px;
+}
+
+.App h1 {
+  background-color: cornflowerblue;
+  width: 50%;
+  height: "40px";
+  border-radius: 3px;
+  margin: 20px 400px;
+
+  color: white;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2em;
+}
